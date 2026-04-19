@@ -1,0 +1,1276 @@
+id|name|eca|year
+std0001|Coding Club|Academic|2024
+std0002|Environment Club|Social|2022
+std0002|Quiz Club|Academic|2023
+std0002|Coding Club|Academic|2021
+std0002|Science Club|Academic|2022
+std0002|Debate Club|Academic|2022
+std0002|Table Tennis|Sports|2022
+std0003|Film Club|Creative|2024
+std0003|Science Club|Academic|2023
+std0005|Cricket|Sports|2021
+std0006|Hiking Club|Adventure|2021
+std0006|Boxing|Sports|2023
+std0007|Quiz Club|Academic|2023
+std0007|Taekwondo|Sports|2021
+std0007|Volleyball|Sports|2021
+std0008|Science Club|Academic|2021
+std0008|Music Band|Creative|2022
+std0009|Table Tennis|Sports|2021
+std0009|Art Club|Creative|2021
+std0010|Badminton|Sports|2021
+std0010|Literary Club|Academic|2021
+std0011|Swimming|Sports|2021
+std0011|Environment Club|Social|2023
+std0011|Red Cross|Social|2021
+std0012|Basketball|Sports|2022
+std0012|Table Tennis|Sports|2023
+std0013|Quiz Club|Academic|2024
+std0013|Boxing|Sports|2023
+std0015|Cultural Dance|Creative|2024
+std0015|Journalism Club|Academic|2021
+std0016|Archery|Sports|2021
+std0017|Cricket|Sports|2024
+std0017|Boxing|Sports|2022
+std0017|Student Council|Social|2022
+std0017|Photography Club|Creative|2021
+std0017|Cultural Dance|Creative|2021
+std0019|Cycling Club|Sports|2021
+std0019|Debate Club|Academic|2023
+std0020|Quiz Club|Academic|2023
+std0020|Photography Club|Creative|2022
+std0021|Literary Club|Academic|2025
+std0021|Hiking Club|Adventure|2024
+std0022|Taekwondo|Sports|2024
+std0024|Film Club|Creative|2022
+std0024|Coding Club|Academic|2022
+std0025|Archery|Sports|2023
+std0025|Chess Club|Academic|2023
+std0026|Science Club|Academic|2024
+std0027|Art Club|Creative|2023
+std0027|Hiking Club|Adventure|2023
+std0027|Film Club|Creative|2023
+std0027|Environment Club|Social|2023
+std0028|Robotics Club|Academic|2022
+std0028|Cricket|Sports|2025
+std0029|Cycling Club|Sports|2025
+std0029|Art Club|Creative|2022
+std0030|Yoga Club|Wellness|2022
+std0030|Swimming|Sports|2022
+std0030|Cultural Dance|Creative|2022
+std0030|Drama Club|Creative|2022
+std0030|Cycling Club|Sports|2022
+std0031|Taekwondo|Sports|2024
+std0031|Hiking Club|Adventure|2024
+std0032|Student Council|Social|2023
+std0032|Taekwondo|Sports|2024
+std0033|Film Club|Creative|2025
+std0033|Cultural Dance|Creative|2024
+std0035|Student Council|Social|2023
+std0035|Drama Club|Creative|2023
+std0036|Film Club|Creative|2024
+std0036|Drama Club|Creative|2022
+std0036|Cricket|Sports|2023
+std0036|Boxing|Sports|2025
+std0037|Quiz Club|Academic|2024
+std0038|Environment Club|Social|2023
+std0039|Football|Sports|2024
+std0040|Football|Sports|2024
+std0040|Swimming|Sports|2024
+std0041|Art Club|Creative|2023
+std0042|Student Council|Social|2024
+std0042|Coding Club|Academic|2025
+std0042|Football|Sports|2023
+std0042|Environment Club|Social|2023
+std0042|Cricket|Sports|2023
+std0043|Photography Club|Creative|2024
+std0043|Archery|Sports|2024
+std0045|Music Band|Creative|2023
+std0045|Volleyball|Sports|2023
+std0048|Basketball|Sports|2024
+std0049|Debate Club|Academic|2024
+std0050|Yoga Club|Wellness|2025
+std0050|Chess Club|Academic|2025
+std0050|Hiking Club|Adventure|2023
+std0050|Badminton|Sports|2025
+std0050|Boxing|Sports|2025
+std0051|Student Council|Social|2025
+std0051|Volleyball|Sports|2025
+std0053|Table Tennis|Sports|2023
+std0053|Music Band|Creative|2023
+std0054|Environment Club|Social|2025
+std0054|Cricket|Sports|2025
+std0055|Coding Club|Academic|2025
+std0056|Hiking Club|Adventure|2023
+std0056|Red Cross|Social|2023
+std0057|Swimming|Sports|2025
+std0057|Hiking Club|Adventure|2025
+std0058|Football|Sports|2024
+std0058|Table Tennis|Sports|2025
+std0058|Hiking Club|Adventure|2024
+std0058|Chess Club|Academic|2024
+std0059|Basketball|Sports|2025
+std0060|Cricket|Sports|2023
+std0060|Drama Club|Creative|2023
+std0061|Drama Club|Creative|2025
+std0062|Environment Club|Social|2025
+std0063|Badminton|Sports|2025
+std0063|Photography Club|Creative|2025
+std0064|Taekwondo|Sports|2024
+std0064|Football|Sports|2025
+std0065|Drama Club|Creative|2024
+std0066|Drama Club|Creative|2024
+std0066|Chess Club|Academic|2025
+std0068|Coding Club|Academic|2025
+std0068|Basketball|Sports|2025
+std0070|Basketball|Sports|2025
+std0071|Table Tennis|Sports|2024
+std0071|Badminton|Sports|2025
+std0071|Archery|Sports|2025
+std0072|Boxing|Sports|2025
+std0073|Football|Sports|2024
+std0074|Hiking Club|Adventure|2024
+std0075|Cultural Dance|Creative|2024
+std0076|Art Club|Creative|2025
+std0077|Drama Club|Creative|2025
+std0077|Art Club|Creative|2024
+std0078|Basketball|Sports|2025
+std0078|Boxing|Sports|2024
+std0079|Science Club|Academic|2024
+std0079|Art Club|Creative|2024
+std0079|Coding Club|Academic|2024
+std0079|Boxing|Sports|2025
+std0079|Photography Club|Creative|2025
+std0079|Swimming|Sports|2025
+std0080|Coding Club|Academic|2025
+std0081|Cricket|Sports|2024
+std0081|Archery|Sports|2023
+std0082|Literary Club|Academic|2024
+std0082|Hiking Club|Adventure|2023
+std0083|Yoga Club|Wellness|2022
+std0085|Student Council|Social|2024
+std0085|Art Club|Creative|2021
+std0086|Archery|Sports|2023
+std0086|Cultural Dance|Creative|2021
+std0087|Photography Club|Creative|2024
+std0088|Basketball|Sports|2021
+std0089|Hiking Club|Adventure|2024
+std0089|Archery|Sports|2024
+std0090|Taekwondo|Sports|2023
+std0090|Basketball|Sports|2021
+std0091|Music Band|Creative|2024
+std0092|Taekwondo|Sports|2022
+std0092|Photography Club|Creative|2022
+std0093|Volleyball|Sports|2022
+std0093|Music Band|Creative|2023
+std0094|Red Cross|Social|2022
+std0094|Cultural Dance|Creative|2023
+std0095|Music Band|Creative|2022
+std0096|Boxing|Sports|2024
+std0096|Photography Club|Creative|2023
+std0098|Film Club|Creative|2023
+std0098|Badminton|Sports|2024
+std0099|Football|Sports|2021
+std0100|Debate Club|Academic|2021
+std0100|Football|Sports|2023
+std0104|Cycling Club|Sports|2025
+std0105|Volleyball|Sports|2025
+std0107|Football|Sports|2023
+std0107|Photography Club|Creative|2023
+std0108|Cultural Dance|Creative|2023
+std0108|Basketball|Sports|2025
+std0108|Quiz Club|Academic|2024
+std0109|Science Club|Academic|2024
+std0109|Cultural Dance|Creative|2023
+std0109|Taekwondo|Sports|2024
+std0109|Quiz Club|Academic|2025
+std0109|Cycling Club|Sports|2023
+std0109|Cricket|Sports|2023
+std0110|Student Council|Social|2025
+std0110|Archery|Sports|2024
+std0112|Environment Club|Social|2023
+std0113|Art Club|Creative|2024
+std0114|Red Cross|Social|2023
+std0115|Cultural Dance|Creative|2022
+std0116|Yoga Club|Wellness|2022
+std0116|Music Band|Creative|2024
+std0117|Boxing|Sports|2023
+std0118|Volleyball|Sports|2023
+std0119|Quiz Club|Academic|2023
+std0120|Coding Club|Academic|2024
+std0120|Quiz Club|Academic|2024
+std0122|Quiz Club|Academic|2025
+std0123|Hiking Club|Adventure|2023
+std0123|Film Club|Creative|2025
+std0124|Badminton|Sports|2023
+std0124|Science Club|Academic|2024
+std0125|Student Council|Social|2025
+std0126|Badminton|Sports|2023
+std0127|Badminton|Sports|2024
+std0128|Yoga Club|Wellness|2025
+std0130|Music Band|Creative|2025
+std0130|Chess Club|Academic|2025
+std0131|Journalism Club|Academic|2024
+std0133|Archery|Sports|2023
+std0133|Film Club|Creative|2024
+std0134|Coding Club|Academic|2025
+std0135|Debate Club|Academic|2023
+std0135|Photography Club|Creative|2025
+std0136|Chess Club|Academic|2025
+std0137|Archery|Sports|2024
+std0139|Hiking Club|Adventure|2023
+std0139|Student Council|Social|2025
+std0139|Photography Club|Creative|2025
+std0139|Cycling Club|Sports|2025
+std0140|Taekwondo|Sports|2025
+std0141|Debate Club|Academic|2024
+std0141|Student Council|Social|2024
+std0142|Literary Club|Academic|2024
+std0142|Badminton|Sports|2024
+std0142|Science Club|Academic|2024
+std0142|Environment Club|Social|2025
+std0142|Cricket|Sports|2024
+std0143|Table Tennis|Sports|2024
+std0144|Student Council|Social|2025
+std0144|Chess Club|Academic|2024
+std0145|Music Band|Creative|2024
+std0145|Football|Sports|2024
+std0146|Table Tennis|Sports|2024
+std0147|Football|Sports|2025
+std0147|Cricket|Sports|2024
+std0148|Cricket|Sports|2024
+std0148|Chess Club|Academic|2024
+std0148|Cycling Club|Sports|2025
+std0148|Journalism Club|Academic|2025
+std0148|Photography Club|Creative|2024
+std0149|Music Band|Creative|2025
+std0150|Journalism Club|Academic|2025
+std0150|Science Club|Academic|2024
+std0151|Environment Club|Social|2025
+std0151|Hiking Club|Adventure|2025
+std0152|Volleyball|Sports|2024
+std0152|Boxing|Sports|2024
+std0152|Table Tennis|Sports|2024
+std0152|Cycling Club|Sports|2024
+std0153|Cycling Club|Sports|2024
+std0155|Science Club|Academic|2024
+std0155|Volleyball|Sports|2024
+std0155|Red Cross|Social|2024
+std0155|Art Club|Creative|2024
+std0156|Journalism Club|Academic|2024
+std0156|Hiking Club|Adventure|2025
+std0157|Boxing|Sports|2025
+std0158|Music Band|Creative|2025
+std0159|Journalism Club|Academic|2024
+std0159|Chess Club|Academic|2024
+std0160|Art Club|Creative|2025
+std0160|Boxing|Sports|2025
+std0162|Robotics Club|Academic|2022
+std0162|Quiz Club|Academic|2023
+std0163|Hiking Club|Adventure|2023
+std0165|Cultural Dance|Creative|2021
+std0165|Hiking Club|Adventure|2023
+std0166|Music Band|Creative|2022
+std0166|Football|Sports|2021
+std0167|Volleyball|Sports|2022
+std0168|Taekwondo|Sports|2023
+std0168|Badminton|Sports|2021
+std0169|Cycling Club|Sports|2024
+std0169|Film Club|Creative|2022
+std0170|Boxing|Sports|2024
+std0170|Archery|Sports|2023
+std0171|Science Club|Academic|2022
+std0171|Taekwondo|Sports|2024
+std0173|Taekwondo|Sports|2021
+std0173|Chess Club|Academic|2024
+std0174|Film Club|Creative|2021
+std0174|Cricket|Sports|2024
+std0175|Volleyball|Sports|2022
+std0175|Student Council|Social|2022
+std0176|Chess Club|Academic|2023
+std0177|Science Club|Academic|2022
+std0177|Taekwondo|Sports|2022
+std0178|Photography Club|Creative|2024
+std0178|Robotics Club|Academic|2023
+std0179|Taekwondo|Sports|2023
+std0179|Journalism Club|Academic|2023
+std0180|Science Club|Academic|2024
+std0180|Film Club|Creative|2023
+std0181|Coding Club|Academic|2022
+std0181|Volleyball|Sports|2024
+std0182|Robotics Club|Academic|2022
+std0184|Table Tennis|Sports|2024
+std0184|Photography Club|Creative|2022
+std0185|Cultural Dance|Creative|2024
+std0185|Music Band|Creative|2025
+std0185|Taekwondo|Sports|2024
+std0185|Literary Club|Academic|2024
+std0185|Boxing|Sports|2023
+std0185|Badminton|Sports|2025
+std0186|Music Band|Creative|2025
+std0189|Red Cross|Social|2022
+std0191|Badminton|Sports|2023
+std0193|Student Council|Social|2023
+std0193|Cricket|Sports|2023
+std0193|Taekwondo|Sports|2024
+std0193|Debate Club|Academic|2024
+std0194|Chess Club|Academic|2025
+std0194|Coding Club|Academic|2022
+std0195|Art Club|Creative|2022
+std0196|Debate Club|Academic|2025
+std0196|Archery|Sports|2022
+std0197|Science Club|Academic|2025
+std0197|Archery|Sports|2023
+std0198|Taekwondo|Sports|2025
+std0198|Photography Club|Creative|2023
+std0199|Swimming|Sports|2023
+std0199|Basketball|Sports|2025
+std0200|Football|Sports|2024
+std0200|Music Band|Creative|2025
+std0201|Robotics Club|Academic|2023
+std0202|Art Club|Creative|2025
+std0203|Boxing|Sports|2025
+std0203|Taekwondo|Sports|2023
+std0203|Debate Club|Academic|2024
+std0203|Art Club|Creative|2024
+std0203|Football|Sports|2025
+std0203|Basketball|Sports|2025
+std0204|Chess Club|Academic|2023
+std0205|Coding Club|Academic|2023
+std0207|Quiz Club|Academic|2025
+std0208|Debate Club|Academic|2023
+std0209|Coding Club|Academic|2023
+std0211|Coding Club|Academic|2023
+std0211|Literary Club|Academic|2025
+std0212|Journalism Club|Academic|2024
+std0213|Music Band|Creative|2023
+std0213|Debate Club|Academic|2023
+std0214|Drama Club|Creative|2024
+std0215|Taekwondo|Sports|2023
+std0216|Art Club|Creative|2023
+std0216|Quiz Club|Academic|2025
+std0218|Basketball|Sports|2025
+std0218|Literary Club|Academic|2024
+std0219|Film Club|Creative|2024
+std0219|Art Club|Creative|2024
+std0219|Quiz Club|Academic|2024
+std0219|Table Tennis|Sports|2023
+std0219|Taekwondo|Sports|2023
+std0219|Badminton|Sports|2024
+std0220|Volleyball|Sports|2025
+std0222|Cycling Club|Sports|2025
+std0223|Literary Club|Academic|2025
+std0225|Football|Sports|2025
+std0226|Drama Club|Creative|2024
+std0227|Cycling Club|Sports|2024
+std0227|Basketball|Sports|2024
+std0228|Boxing|Sports|2024
+std0228|Quiz Club|Academic|2025
+std0229|Boxing|Sports|2024
+std0230|Film Club|Creative|2025
+std0230|Robotics Club|Academic|2024
+std0231|Art Club|Creative|2025
+std0232|Debate Club|Academic|2024
+std0232|Boxing|Sports|2024
+std0233|Yoga Club|Wellness|2025
+std0234|Table Tennis|Sports|2025
+std0235|Football|Sports|2024
+std0236|Swimming|Sports|2024
+std0237|Photography Club|Creative|2024
+std0237|Debate Club|Academic|2024
+std0239|Film Club|Creative|2024
+std0240|Red Cross|Social|2025
+std0241|Journalism Club|Academic|2021
+std0241|Red Cross|Social|2023
+std0243|Literary Club|Academic|2023
+std0245|Environment Club|Social|2021
+std0245|Swimming|Sports|2021
+std0245|Chess Club|Academic|2024
+std0247|Student Council|Social|2023
+std0247|Swimming|Sports|2022
+std0248|Volleyball|Sports|2021
+std0249|Taekwondo|Sports|2022
+std0250|Cycling Club|Sports|2022
+std0250|Drama Club|Creative|2021
+std0251|Science Club|Academic|2022
+std0251|Art Club|Creative|2022
+std0252|Red Cross|Social|2021
+std0252|Hiking Club|Adventure|2024
+std0253|Archery|Sports|2022
+std0253|Hiking Club|Adventure|2024
+std0253|Literary Club|Academic|2022
+std0253|Journalism Club|Academic|2023
+std0253|Photography Club|Creative|2021
+std0253|Basketball|Sports|2022
+std0254|Cycling Club|Sports|2024
+std0255|Science Club|Academic|2023
+std0255|Coding Club|Academic|2024
+std0256|Coding Club|Academic|2021
+std0257|Boxing|Sports|2024
+std0257|Yoga Club|Wellness|2021
+std0258|Environment Club|Social|2022
+std0258|Taekwondo|Sports|2022
+std0259|Film Club|Creative|2021
+std0259|Volleyball|Sports|2021
+std0260|Yoga Club|Wellness|2022
+std0260|Film Club|Creative|2022
+std0260|Coding Club|Academic|2022
+std0261|Table Tennis|Sports|2024
+std0261|Literary Club|Academic|2022
+std0262|Journalism Club|Academic|2023
+std0263|Chess Club|Academic|2024
+std0264|Robotics Club|Academic|2023
+std0264|Art Club|Creative|2025
+std0265|Chess Club|Academic|2025
+std0267|Basketball|Sports|2023
+std0267|Science Club|Academic|2025
+std0268|Red Cross|Social|2023
+std0268|Art Club|Creative|2025
+std0269|Chess Club|Academic|2025
+std0269|Archery|Sports|2022
+std0270|Boxing|Sports|2024
+std0271|Journalism Club|Academic|2024
+std0272|Table Tennis|Sports|2024
+std0273|Literary Club|Academic|2022
+std0273|Photography Club|Creative|2022
+std0274|Swimming|Sports|2025
+std0275|Badminton|Sports|2024
+std0275|Volleyball|Sports|2023
+std0276|Archery|Sports|2025
+std0276|Art Club|Creative|2025
+std0277|Robotics Club|Academic|2023
+std0278|Film Club|Creative|2025
+std0280|Boxing|Sports|2022
+std0281|Environment Club|Social|2023
+std0282|Drama Club|Creative|2023
+std0282|Volleyball|Sports|2023
+std0283|Badminton|Sports|2025
+std0284|Coding Club|Academic|2023
+std0285|Cricket|Sports|2023
+std0286|Chess Club|Academic|2025
+std0286|Archery|Sports|2025
+std0287|Basketball|Sports|2023
+std0288|Boxing|Sports|2024
+std0289|Coding Club|Academic|2025
+std0289|Literary Club|Academic|2024
+std0290|Boxing|Sports|2023
+std0290|Yoga Club|Wellness|2024
+std0291|Science Club|Academic|2024
+std0291|Hiking Club|Adventure|2024
+std0292|Literary Club|Academic|2024
+std0293|Music Band|Creative|2024
+std0294|Chess Club|Academic|2024
+std0294|Photography Club|Creative|2024
+std0294|Journalism Club|Academic|2025
+std0295|Environment Club|Social|2025
+std0296|Volleyball|Sports|2025
+std0296|Cycling Club|Sports|2025
+std0298|Literary Club|Academic|2023
+std0298|Environment Club|Social|2024
+std0300|Cycling Club|Sports|2023
+std0300|Basketball|Sports|2023
+std0301|Cricket|Sports|2025
+std0301|Taekwondo|Sports|2025
+std0302|Photography Club|Creative|2024
+std0302|Film Club|Creative|2025
+std0303|Football|Sports|2024
+std0304|Cycling Club|Sports|2025
+std0304|Taekwondo|Sports|2024
+std0304|Hiking Club|Adventure|2025
+std0305|Journalism Club|Academic|2024
+std0305|Cultural Dance|Creative|2025
+std0306|Cycling Club|Sports|2025
+std0306|Quiz Club|Academic|2024
+std0307|Boxing|Sports|2024
+std0307|Archery|Sports|2024
+std0308|Yoga Club|Wellness|2025
+std0308|Robotics Club|Academic|2025
+std0310|Debate Club|Academic|2025
+std0310|Boxing|Sports|2025
+std0311|Chess Club|Academic|2024
+std0311|Hiking Club|Adventure|2025
+std0313|Volleyball|Sports|2025
+std0313|Environment Club|Social|2025
+std0314|Art Club|Creative|2025
+std0314|Photography Club|Creative|2025
+std0315|Quiz Club|Academic|2024
+std0315|Science Club|Academic|2025
+std0315|Cycling Club|Sports|2024
+std0316|Quiz Club|Academic|2024
+std0316|Red Cross|Social|2024
+std0317|Boxing|Sports|2024
+std0317|Cultural Dance|Creative|2024
+std0318|Hiking Club|Adventure|2024
+std0319|Music Band|Creative|2024
+std0319|Archery|Sports|2025
+std0319|Boxing|Sports|2024
+std0319|Football|Sports|2024
+std0320|Yoga Club|Wellness|2024
+std0321|Film Club|Creative|2024
+std0321|Environment Club|Social|2024
+std0322|Badminton|Sports|2022
+std0322|Cricket|Sports|2024
+std0323|Literary Club|Academic|2022
+std0325|Cultural Dance|Creative|2021
+std0325|Basketball|Sports|2024
+std0326|Drama Club|Creative|2022
+std0326|Literary Club|Academic|2021
+std0327|Environment Club|Social|2024
+std0327|Science Club|Academic|2021
+std0328|Basketball|Sports|2023
+std0328|Cultural Dance|Creative|2021
+std0329|Literary Club|Academic|2021
+std0330|Drama Club|Creative|2023
+std0330|Debate Club|Academic|2021
+std0331|Literary Club|Academic|2021
+std0331|Environment Club|Social|2023
+std0332|Archery|Sports|2022
+std0332|Photography Club|Creative|2022
+std0334|Red Cross|Social|2021
+std0334|Film Club|Creative|2022
+std0335|Football|Sports|2021
+std0338|Student Council|Social|2024
+std0338|Coding Club|Academic|2024
+std0338|Badminton|Sports|2021
+std0338|Swimming|Sports|2021
+std0338|Red Cross|Social|2021
+std0339|Chess Club|Academic|2022
+std0339|Journalism Club|Academic|2021
+std0340|Film Club|Creative|2024
+std0340|Hiking Club|Adventure|2021
+std0340|Art Club|Creative|2023
+std0341|Volleyball|Sports|2023
+std0342|Chess Club|Academic|2023
+std0342|Boxing|Sports|2025
+std0343|Film Club|Creative|2022
+std0344|Chess Club|Academic|2024
+std0345|Red Cross|Social|2025
+std0346|Table Tennis|Sports|2024
+std0347|Red Cross|Social|2023
+std0348|Cycling Club|Sports|2024
+std0348|Chess Club|Academic|2025
+std0349|Football|Sports|2024
+std0349|Science Club|Academic|2025
+std0350|Cricket|Sports|2022
+std0350|Swimming|Sports|2024
+std0351|Debate Club|Academic|2023
+std0351|Science Club|Academic|2023
+std0353|Chess Club|Academic|2022
+std0353|Red Cross|Social|2022
+std0354|Archery|Sports|2025
+std0354|Coding Club|Academic|2022
+std0355|Red Cross|Social|2022
+std0355|Yoga Club|Wellness|2023
+std0356|Environment Club|Social|2025
+std0357|Football|Sports|2022
+std0358|Science Club|Academic|2025
+std0359|Photography Club|Creative|2024
+std0359|Table Tennis|Sports|2025
+std0361|Badminton|Sports|2024
+std0361|Red Cross|Social|2025
+std0362|Music Band|Creative|2024
+std0362|Yoga Club|Wellness|2023
+std0363|Archery|Sports|2023
+std0363|Environment Club|Social|2025
+std0364|Cultural Dance|Creative|2025
+std0364|Volleyball|Sports|2024
+std0364|Music Band|Creative|2024
+std0364|Science Club|Academic|2024
+std0365|Badminton|Sports|2025
+std0366|Drama Club|Creative|2025
+std0366|Archery|Sports|2023
+std0366|Journalism Club|Academic|2023
+std0366|Volleyball|Sports|2025
+std0366|Quiz Club|Academic|2024
+std0366|Art Club|Creative|2025
+std0367|Basketball|Sports|2025
+std0368|Science Club|Academic|2025
+std0369|Robotics Club|Academic|2023
+std0369|Cricket|Sports|2025
+std0370|Cycling Club|Sports|2023
+std0370|Quiz Club|Academic|2023
+std0371|Literary Club|Academic|2023
+std0371|Drama Club|Creative|2023
+std0374|Table Tennis|Sports|2023
+std0374|Cycling Club|Sports|2024
+std0374|Coding Club|Academic|2023
+std0374|Robotics Club|Academic|2025
+std0376|Drama Club|Creative|2023
+std0377|Science Club|Academic|2024
+std0378|Photography Club|Creative|2023
+std0378|Drama Club|Creative|2023
+std0379|Football|Sports|2023
+std0380|Taekwondo|Sports|2024
+std0380|Robotics Club|Academic|2023
+std0381|Swimming|Sports|2025
+std0381|Photography Club|Creative|2025
+std0382|Debate Club|Academic|2024
+std0383|Art Club|Creative|2024
+std0384|Quiz Club|Academic|2025
+std0385|Taekwondo|Sports|2025
+std0385|Yoga Club|Wellness|2024
+std0386|Boxing|Sports|2024
+std0386|Archery|Sports|2024
+std0388|Chess Club|Academic|2024
+std0388|Taekwondo|Sports|2024
+std0389|Photography Club|Creative|2024
+std0389|Literary Club|Academic|2025
+std0390|Archery|Sports|2025
+std0390|Photography Club|Creative|2025
+std0390|Literary Club|Academic|2024
+std0390|Football|Sports|2024
+std0391|Archery|Sports|2025
+std0392|Environment Club|Social|2025
+std0392|Volleyball|Sports|2025
+std0393|Music Band|Creative|2025
+std0393|Coding Club|Academic|2025
+std0395|Hiking Club|Adventure|2024
+std0395|Boxing|Sports|2024
+std0396|Debate Club|Academic|2024
+std0396|Cultural Dance|Creative|2025
+std0397|Volleyball|Sports|2024
+std0398|Art Club|Creative|2024
+std0398|Cultural Dance|Creative|2024
+std0399|Red Cross|Social|2025
+std0399|Environment Club|Social|2024
+std0399|Science Club|Academic|2024
+std0400|Science Club|Academic|2024
+std0400|Badminton|Sports|2024
+std0400|Taekwondo|Sports|2025
+std0401|Robotics Club|Academic|2024
+std0402|Basketball|Sports|2021
+std0402|Literary Club|Academic|2024
+std0403|Science Club|Academic|2021
+std0403|Coding Club|Academic|2024
+std0404|Cultural Dance|Creative|2021
+std0405|Literary Club|Academic|2024
+std0407|Quiz Club|Academic|2021
+std0408|Quiz Club|Academic|2023
+std0408|Red Cross|Social|2022
+std0408|Cultural Dance|Creative|2024
+std0408|Drama Club|Creative|2023
+std0408|Boxing|Sports|2023
+std0410|Drama Club|Creative|2021
+std0411|Drama Club|Creative|2024
+std0412|Volleyball|Sports|2024
+std0413|Yoga Club|Wellness|2022
+std0416|Boxing|Sports|2023
+std0417|Film Club|Creative|2022
+std0418|Student Council|Social|2023
+std0418|Debate Club|Academic|2021
+std0420|Swimming|Sports|2021
+std0420|Volleyball|Sports|2024
+std0421|Film Club|Creative|2022
+std0421|Cricket|Sports|2025
+std0422|Badminton|Sports|2022
+std0423|Photography Club|Creative|2022
+std0423|Red Cross|Social|2023
+std0424|Music Band|Creative|2024
+std0424|Environment Club|Social|2025
+std0424|Swimming|Sports|2023
+std0424|Photography Club|Creative|2022
+std0424|Film Club|Creative|2023
+std0424|Archery|Sports|2022
+std0425|Photography Club|Creative|2024
+std0426|Badminton|Sports|2023
+std0427|Science Club|Academic|2024
+std0427|Journalism Club|Academic|2023
+std0427|Volleyball|Sports|2023
+std0428|Swimming|Sports|2025
+std0428|Robotics Club|Academic|2024
+std0429|Badminton|Sports|2024
+std0430|Drama Club|Creative|2024
+std0431|Quiz Club|Academic|2025
+std0432|Archery|Sports|2022
+std0432|Boxing|Sports|2025
+std0432|Yoga Club|Wellness|2023
+std0433|Art Club|Creative|2023
+std0433|Film Club|Creative|2024
+std0434|Basketball|Sports|2022
+std0434|Cricket|Sports|2022
+std0435|Cultural Dance|Creative|2022
+std0436|Music Band|Creative|2023
+std0436|Film Club|Creative|2023
+std0437|Basketball|Sports|2022
+std0440|Chess Club|Academic|2022
+std0440|Art Club|Creative|2024
+std0442|Cultural Dance|Creative|2023
+std0443|Swimming|Sports|2025
+std0445|Chess Club|Academic|2025
+std0446|Journalism Club|Academic|2023
+std0448|Volleyball|Sports|2024
+std0449|Science Club|Academic|2024
+std0449|Red Cross|Social|2024
+std0450|Music Band|Creative|2023
+std0450|Cultural Dance|Creative|2024
+std0451|Cricket|Sports|2023
+std0452|Coding Club|Academic|2024
+std0452|Film Club|Creative|2023
+std0452|Debate Club|Academic|2024
+std0452|Quiz Club|Academic|2025
+std0452|Journalism Club|Academic|2024
+std0453|Drama Club|Creative|2023
+std0453|Photography Club|Creative|2023
+std0453|Archery|Sports|2025
+std0454|Archery|Sports|2025
+std0454|Coding Club|Academic|2024
+std0456|Boxing|Sports|2024
+std0457|Cultural Dance|Creative|2023
+std0457|Journalism Club|Academic|2024
+std0458|Photography Club|Creative|2023
+std0458|Hiking Club|Adventure|2025
+std0459|Red Cross|Social|2025
+std0461|Film Club|Creative|2025
+std0461|Football|Sports|2024
+std0462|Cricket|Sports|2025
+std0464|Coding Club|Academic|2024
+std0466|Yoga Club|Wellness|2025
+std0467|Drama Club|Creative|2024
+std0467|Student Council|Social|2024
+std0468|Environment Club|Social|2025
+std0469|Photography Club|Creative|2024
+std0469|Football|Sports|2024
+std0469|Table Tennis|Sports|2025
+std0469|Archery|Sports|2024
+std0469|Cultural Dance|Creative|2024
+std0469|Journalism Club|Academic|2024
+std0470|Yoga Club|Wellness|2024
+std0470|Cricket|Sports|2025
+std0471|Hiking Club|Adventure|2024
+std0472|Football|Sports|2025
+std0472|Archery|Sports|2025
+std0474|Journalism Club|Academic|2024
+std0474|Volleyball|Sports|2025
+std0475|Hiking Club|Adventure|2024
+std0476|Cycling Club|Sports|2025
+std0478|Hiking Club|Adventure|2025
+std0478|Taekwondo|Sports|2024
+std0478|Debate Club|Academic|2025
+std0478|Chess Club|Academic|2025
+std0478|Cycling Club|Sports|2025
+std0478|Robotics Club|Academic|2025
+std0480|Quiz Club|Academic|2025
+std0480|Yoga Club|Wellness|2024
+std0480|Art Club|Creative|2024
+std0480|Basketball|Sports|2025
+std0481|Red Cross|Social|2023
+std0481|Photography Club|Creative|2022
+std0482|Coding Club|Academic|2021
+std0482|Yoga Club|Wellness|2024
+std0483|Art Club|Creative|2021
+std0484|Environment Club|Social|2024
+std0484|Archery|Sports|2022
+std0485|Environment Club|Social|2024
+std0486|Cycling Club|Sports|2023
+std0486|Chess Club|Academic|2023
+std0486|Film Club|Creative|2021
+std0487|Debate Club|Academic|2023
+std0487|Quiz Club|Academic|2024
+std0487|Swimming|Sports|2021
+std0488|Swimming|Sports|2021
+std0489|Robotics Club|Academic|2024
+std0490|Film Club|Creative|2021
+std0490|Badminton|Sports|2022
+std0491|Volleyball|Sports|2021
+std0491|Hiking Club|Adventure|2024
+std0493|Art Club|Creative|2022
+std0494|Badminton|Sports|2024
+std0494|Quiz Club|Academic|2024
+std0494|Art Club|Creative|2022
+std0494|Archery|Sports|2022
+std0494|Cricket|Sports|2024
+std0494|Cultural Dance|Creative|2021
+std0495|Robotics Club|Academic|2024
+std0495|Environment Club|Social|2021
+std0496|Robotics Club|Academic|2023
+std0496|Art Club|Creative|2024
+std0496|Swimming|Sports|2021
+std0496|Science Club|Academic|2023
+std0498|Drama Club|Creative|2022
+std0499|Debate Club|Academic|2022
+std0499|Film Club|Creative|2024
+std0500|Chess Club|Academic|2021
+std0500|Swimming|Sports|2022
+std0501|Badminton|Sports|2025
+std0501|Debate Club|Academic|2022
+std0502|Cycling Club|Sports|2025
+std0502|Table Tennis|Sports|2022
+std0503|Football|Sports|2024
+std0504|Basketball|Sports|2025
+std0504|Hiking Club|Adventure|2022
+std0506|Basketball|Sports|2022
+std0506|Film Club|Creative|2025
+std0506|Taekwondo|Sports|2024
+std0507|Music Band|Creative|2025
+std0507|Swimming|Sports|2022
+std0508|Journalism Club|Academic|2022
+std0508|Film Club|Creative|2024
+std0509|Debate Club|Academic|2023
+std0510|Football|Sports|2023
+std0511|Drama Club|Creative|2022
+std0511|Football|Sports|2025
+std0512|Volleyball|Sports|2025
+std0512|Film Club|Creative|2024
+std0515|Basketball|Sports|2022
+std0515|Volleyball|Sports|2023
+std0516|Archery|Sports|2025
+std0516|Science Club|Academic|2025
+std0518|Film Club|Creative|2022
+std0519|Science Club|Academic|2022
+std0519|Drama Club|Creative|2024
+std0521|Basketball|Sports|2025
+std0521|Taekwondo|Sports|2023
+std0522|Environment Club|Social|2025
+std0523|Music Band|Creative|2025
+std0523|Photography Club|Creative|2024
+std0523|Coding Club|Academic|2025
+std0523|Cricket|Sports|2025
+std0524|Volleyball|Sports|2024
+std0526|Coding Club|Academic|2025
+std0526|Taekwondo|Sports|2024
+std0527|Robotics Club|Academic|2024
+std0528|Cycling Club|Sports|2023
+std0528|Film Club|Creative|2025
+std0529|Literary Club|Academic|2024
+std0530|Yoga Club|Wellness|2025
+std0530|Cultural Dance|Creative|2024
+std0530|Archery|Sports|2024
+std0530|Robotics Club|Academic|2025
+std0531|Hiking Club|Adventure|2024
+std0532|Yoga Club|Wellness|2023
+std0532|Quiz Club|Academic|2023
+std0533|Drama Club|Creative|2023
+std0533|Football|Sports|2025
+std0533|Coding Club|Academic|2025
+std0533|Photography Club|Creative|2025
+std0533|Quiz Club|Academic|2025
+std0533|Cycling Club|Sports|2024
+std0534|Music Band|Creative|2025
+std0535|Coding Club|Academic|2024
+std0536|Yoga Club|Wellness|2023
+std0537|Quiz Club|Academic|2023
+std0537|Volleyball|Sports|2023
+std0538|Badminton|Sports|2024
+std0539|Debate Club|Academic|2023
+std0540|Chess Club|Academic|2025
+std0540|Swimming|Sports|2023
+std0541|Photography Club|Creative|2025
+std0542|Drama Club|Creative|2024
+std0542|Coding Club|Academic|2024
+std0542|Volleyball|Sports|2025
+std0542|Cycling Club|Sports|2025
+std0543|Swimming|Sports|2024
+std0543|Hiking Club|Adventure|2024
+std0545|Environment Club|Social|2024
+std0545|Chess Club|Academic|2025
+std0546|Hiking Club|Adventure|2025
+std0546|Cycling Club|Sports|2024
+std0547|Cycling Club|Sports|2024
+std0547|Art Club|Creative|2024
+std0548|Football|Sports|2024
+std0549|Photography Club|Creative|2025
+std0549|Hiking Club|Adventure|2025
+std0550|Student Council|Social|2025
+std0551|Photography Club|Creative|2025
+std0552|Drama Club|Creative|2024
+std0553|Badminton|Sports|2024
+std0553|Cultural Dance|Creative|2024
+std0554|Football|Sports|2024
+std0554|Film Club|Creative|2025
+std0555|Boxing|Sports|2024
+std0555|Robotics Club|Academic|2024
+std0556|Badminton|Sports|2024
+std0557|Coding Club|Academic|2024
+std0558|Photography Club|Creative|2025
+std0558|Badminton|Sports|2025
+std0559|Yoga Club|Wellness|2025
+std0559|Debate Club|Academic|2024
+std0559|Student Council|Social|2025
+std0559|Cycling Club|Sports|2024
+std0559|Photography Club|Creative|2025
+std0560|Chess Club|Academic|2025
+std0562|Taekwondo|Sports|2022
+std0562|Chess Club|Academic|2023
+std0563|Chess Club|Academic|2024
+std0564|Swimming|Sports|2021
+std0568|Film Club|Creative|2022
+std0569|Film Club|Creative|2022
+std0570|Cultural Dance|Creative|2022
+std0570|Debate Club|Academic|2023
+std0571|Art Club|Creative|2022
+std0571|Table Tennis|Sports|2023
+std0572|Boxing|Sports|2024
+std0572|Film Club|Creative|2023
+std0573|Photography Club|Creative|2023
+std0573|Basketball|Sports|2023
+std0575|Photography Club|Creative|2024
+std0575|Taekwondo|Sports|2023
+std0575|Swimming|Sports|2022
+std0575|Quiz Club|Academic|2021
+std0575|Journalism Club|Academic|2021
+std0575|Student Council|Social|2024
+std0576|Cycling Club|Sports|2024
+std0576|Basketball|Sports|2022
+std0577|Football|Sports|2023
+std0577|Swimming|Sports|2021
+std0580|Cultural Dance|Creative|2024
+std0580|Chess Club|Academic|2024
+std0581|Volleyball|Sports|2023
+std0582|Taekwondo|Sports|2022
+std0582|Badminton|Sports|2023
+std0583|Photography Club|Creative|2025
+std0583|Hiking Club|Adventure|2023
+std0584|Table Tennis|Sports|2024
+std0584|Coding Club|Academic|2023
+std0585|Hiking Club|Adventure|2025
+std0585|Swimming|Sports|2025
+std0587|Photography Club|Creative|2022
+std0587|Drama Club|Creative|2024
+std0587|Art Club|Creative|2022
+std0587|Football|Sports|2024
+std0588|Cultural Dance|Creative|2024
+std0588|Basketball|Sports|2023
+std0589|Art Club|Creative|2025
+std0590|Art Club|Creative|2022
+std0591|Music Band|Creative|2023
+std0592|Art Club|Creative|2022
+std0593|Cycling Club|Sports|2023
+std0593|Basketball|Sports|2023
+std0594|Film Club|Creative|2022
+std0595|Swimming|Sports|2022
+std0595|Debate Club|Academic|2023
+std0595|Literary Club|Academic|2023
+std0595|Basketball|Sports|2023
+std0595|Journalism Club|Academic|2023
+std0595|Film Club|Creative|2024
+std0596|Literary Club|Academic|2025
+std0596|Red Cross|Social|2024
+std0597|Robotics Club|Academic|2023
+std0599|Hiking Club|Adventure|2023
+std0602|Drama Club|Creative|2023
+std0602|Taekwondo|Sports|2023
+std0603|Swimming|Sports|2023
+std0603|Science Club|Academic|2025
+std0604|Robotics Club|Academic|2023
+std0605|Quiz Club|Academic|2024
+std0605|Chess Club|Academic|2025
+std0607|Table Tennis|Sports|2025
+std0608|Cultural Dance|Creative|2025
+std0609|Student Council|Social|2023
+std0609|Literary Club|Academic|2023
+std0610|Hiking Club|Adventure|2025
+std0611|Basketball|Sports|2025
+std0611|Hiking Club|Adventure|2024
+std0613|Basketball|Sports|2024
+std0614|Art Club|Creative|2023
+std0614|Chess Club|Academic|2023
+std0615|Chess Club|Academic|2024
+std0616|Cricket|Sports|2025
+std0617|Archery|Sports|2025
+std0617|Boxing|Sports|2024
+std0618|Yoga Club|Wellness|2024
+std0618|Boxing|Sports|2023
+std0618|Quiz Club|Academic|2025
+std0618|Debate Club|Academic|2024
+std0618|Science Club|Academic|2024
+std0618|Cricket|Sports|2025
+std0620|Volleyball|Sports|2025
+std0620|Drama Club|Creative|2024
+std0621|Literary Club|Academic|2024
+std0622|Archery|Sports|2025
+std0622|Quiz Club|Academic|2025
+std0622|Chess Club|Academic|2024
+std0622|Cricket|Sports|2024
+std0622|Hiking Club|Adventure|2024
+std0622|Journalism Club|Academic|2024
+std0624|Science Club|Academic|2025
+std0624|Journalism Club|Academic|2025
+std0628|Student Council|Social|2024
+std0629|Volleyball|Sports|2024
+std0630|Badminton|Sports|2024
+std0630|Debate Club|Academic|2024
+std0634|Volleyball|Sports|2025
+std0635|Drama Club|Creative|2024
+std0635|Photography Club|Creative|2025
+std0636|Yoga Club|Wellness|2024
+std0636|Table Tennis|Sports|2024
+std0637|Basketball|Sports|2025
+std0637|Art Club|Creative|2024
+std0638|Debate Club|Academic|2025
+std0638|Journalism Club|Academic|2024
+std0638|Art Club|Creative|2024
+std0638|Taekwondo|Sports|2025
+std0638|Cycling Club|Sports|2025
+std0638|Badminton|Sports|2025
+std0639|Journalism Club|Academic|2025
+std0639|Football|Sports|2025
+std0640|Chess Club|Academic|2024
+std0641|Literary Club|Academic|2022
+std0641|Red Cross|Social|2024
+std0641|Environment Club|Social|2024
+std0641|Cultural Dance|Creative|2022
+std0642|Film Club|Creative|2024
+std0642|Environment Club|Social|2024
+std0643|Student Council|Social|2022
+std0644|Literary Club|Academic|2023
+std0644|Archery|Sports|2023
+std0644|Boxing|Sports|2022
+std0644|Cycling Club|Sports|2021
+std0644|Film Club|Creative|2021
+std0645|Literary Club|Academic|2021
+std0647|Art Club|Creative|2022
+std0648|Table Tennis|Sports|2023
+std0649|Coding Club|Academic|2024
+std0650|Taekwondo|Sports|2024
+std0651|Robotics Club|Academic|2024
+std0652|Student Council|Social|2021
+std0652|Literary Club|Academic|2024
+std0653|Literary Club|Academic|2021
+std0653|Debate Club|Academic|2021
+std0654|Environment Club|Social|2024
+std0655|Yoga Club|Wellness|2023
+std0655|Taekwondo|Sports|2024
+std0656|Science Club|Academic|2022
+std0656|Volleyball|Sports|2022
+std0656|Art Club|Creative|2021
+std0656|Journalism Club|Academic|2021
+std0656|Basketball|Sports|2021
+std0657|Taekwondo|Sports|2023
+std0657|Student Council|Social|2023
+std0658|Music Band|Creative|2022
+std0659|Chess Club|Academic|2021
+std0660|Robotics Club|Academic|2024
+std0660|Journalism Club|Academic|2023
+std0661|Robotics Club|Academic|2025
+std0661|Football|Sports|2023
+std0662|Journalism Club|Academic|2024
+std0662|Cricket|Sports|2023
+std0663|Robotics Club|Academic|2024
+std0663|Chess Club|Academic|2024
+std0664|Football|Sports|2023
+std0664|Chess Club|Academic|2023
+std0665|Film Club|Creative|2023
+std0665|Archery|Sports|2025
+std0666|Basketball|Sports|2024
+std0666|Quiz Club|Academic|2025
+std0667|Volleyball|Sports|2023
+std0668|Archery|Sports|2024
+std0668|Chess Club|Academic|2022
+std0669|Archery|Sports|2025
+std0670|Volleyball|Sports|2024
+std0671|Quiz Club|Academic|2024
+std0672|Literary Club|Academic|2022
+std0673|Student Council|Social|2023
+std0673|Journalism Club|Academic|2023
+std0674|Badminton|Sports|2023
+std0674|Cycling Club|Sports|2022
+std0674|Science Club|Academic|2024
+std0675|Quiz Club|Academic|2022
+std0676|Debate Club|Academic|2022
+std0677|Cycling Club|Sports|2024
+std0677|Literary Club|Academic|2024
+std0678|Table Tennis|Sports|2022
+std0679|Badminton|Sports|2022
+std0679|Volleyball|Sports|2025
+std0680|Science Club|Academic|2023
+std0681|Drama Club|Creative|2025
+std0682|Art Club|Creative|2025
+std0682|Cycling Club|Sports|2024
+std0683|Cultural Dance|Creative|2024
+std0683|Science Club|Academic|2023
+std0684|Swimming|Sports|2023
+std0684|Taekwondo|Sports|2025
+std0685|Drama Club|Creative|2025
+std0686|Basketball|Sports|2025
+std0687|Debate Club|Academic|2025
+std0687|Boxing|Sports|2023
+std0689|Chess Club|Academic|2025
+std0690|Science Club|Academic|2023
+std0690|Football|Sports|2025
+std0691|Volleyball|Sports|2025
+std0691|Photography Club|Creative|2023
+std0692|Science Club|Academic|2025
+std0692|Basketball|Sports|2025
+std0692|Coding Club|Academic|2023
+std0692|Photography Club|Creative|2023
+std0693|Journalism Club|Academic|2024
+std0694|Music Band|Creative|2023
+std0694|Environment Club|Social|2025
+std0695|Basketball|Sports|2025
+std0696|Hiking Club|Adventure|2025
+std0697|Archery|Sports|2025
+std0697|Swimming|Sports|2023
+std0699|Red Cross|Social|2024
+std0700|Badminton|Sports|2023
+std0701|Cricket|Sports|2024
+std0701|Cultural Dance|Creative|2025
+std0702|Science Club|Academic|2024
+std0704|Debate Club|Academic|2024
+std0705|Photography Club|Creative|2025
+std0705|Boxing|Sports|2025
+std0706|Robotics Club|Academic|2024
+std0706|Hiking Club|Adventure|2025
+std0707|Volleyball|Sports|2025
+std0708|Quiz Club|Academic|2025
+std0710|Hiking Club|Adventure|2024
+std0710|Student Council|Social|2024
+std0710|Table Tennis|Sports|2024
+std0710|Cycling Club|Sports|2024
+std0710|Basketball|Sports|2025
+std0712|Cultural Dance|Creative|2024
+std0713|Chess Club|Academic|2024
+std0713|Football|Sports|2024
+std0714|Cultural Dance|Creative|2025
+std0715|Cultural Dance|Creative|2025
+std0715|Student Council|Social|2025
+std0716|Taekwondo|Sports|2024
+std0716|Basketball|Sports|2024
+std0716|Archery|Sports|2024
+std0716|Yoga Club|Wellness|2025
+std0716|Robotics Club|Academic|2025
+std0717|Literary Club|Academic|2025
+std0717|Hiking Club|Adventure|2025
+std0718|Student Council|Social|2024
+std0719|Film Club|Creative|2025
+std0719|Environment Club|Social|2024
+std0720|Football|Sports|2025
+std0720|Quiz Club|Academic|2024
+std0721|Literary Club|Academic|2023
+std0721|Table Tennis|Sports|2024
+std0723|Taekwondo|Sports|2024
+std0723|Music Band|Creative|2024
+std0723|Cricket|Sports|2024
+std0723|Yoga Club|Wellness|2021
+std0723|Student Council|Social|2022
+std0725|Yoga Club|Wellness|2024
+std0725|Coding Club|Academic|2023
+std0726|Science Club|Academic|2022
+std0727|Basketball|Sports|2021
+std0727|Hiking Club|Adventure|2022
+std0729|Chess Club|Academic|2022
+std0730|Drama Club|Creative|2023
+std0730|Cricket|Sports|2023
+std0731|Badminton|Sports|2023
+std0732|Archery|Sports|2024
+std0732|Debate Club|Academic|2023
+std0733|Music Band|Creative|2023
+std0733|Science Club|Academic|2021
+std0734|Art Club|Creative|2024
+std0735|Badminton|Sports|2023
+std0736|Badminton|Sports|2022
+std0737|Debate Club|Academic|2021
+std0738|Taekwondo|Sports|2022
+std0738|Volleyball|Sports|2022
+std0739|Quiz Club|Academic|2022
+std0741|Quiz Club|Academic|2023
+std0742|Literary Club|Academic|2023
+std0742|Debate Club|Academic|2022
+std0743|Volleyball|Sports|2022
+std0744|Basketball|Sports|2023
+std0745|Table Tennis|Sports|2024
+std0746|Photography Club|Creative|2025
+std0746|Cricket|Sports|2023
+std0747|Volleyball|Sports|2025
+std0747|Archery|Sports|2024
+std0748|Coding Club|Academic|2024
+std0749|Taekwondo|Sports|2025
+std0749|Basketball|Sports|2024
+std0750|Cycling Club|Sports|2023
+std0750|Art Club|Creative|2024
+std0750|Football|Sports|2024
+std0750|Environment Club|Social|2022
+std0750|Student Council|Social|2023
+std0750|Basketball|Sports|2022
+std0752|Boxing|Sports|2025
+std0752|Cricket|Sports|2025
+std0752|Archery|Sports|2022
+std0752|Robotics Club|Academic|2024
+std0753|Red Cross|Social|2024
+std0754|Cultural Dance|Creative|2025
+std0754|Cricket|Sports|2022
+std0754|Swimming|Sports|2022
+std0754|Taekwondo|Sports|2024
+std0754|Science Club|Academic|2022
+std0756|Swimming|Sports|2023
+std0756|Volleyball|Sports|2024
+std0757|Basketball|Sports|2022
+std0757|Hiking Club|Adventure|2024
+std0758|Badminton|Sports|2023
+std0759|Hiking Club|Adventure|2025
+std0759|Literary Club|Academic|2024
+std0759|Chess Club|Academic|2024
+std0759|Film Club|Creative|2025
+std0759|Yoga Club|Wellness|2025
+std0759|Table Tennis|Sports|2022
+std0761|Chess Club|Academic|2023
+std0762|Art Club|Creative|2024
+std0763|Debate Club|Academic|2025
+std0763|Environment Club|Social|2023
+std0763|Red Cross|Social|2023
+std0763|Swimming|Sports|2024
+std0763|Art Club|Creative|2024
+std0763|Basketball|Sports|2023
+std0766|Football|Sports|2023
+std0766|Coding Club|Academic|2023
+std0767|Table Tennis|Sports|2023
+std0768|Red Cross|Social|2023
+std0769|Literary Club|Academic|2024
+std0769|Chess Club|Academic|2024
+std0770|Red Cross|Social|2024
+std0770|Chess Club|Academic|2023
+std0771|Chess Club|Academic|2025
+std0771|Robotics Club|Academic|2025
+std0772|Archery|Sports|2023
+std0773|Volleyball|Sports|2024
+std0773|Cultural Dance|Creative|2023
+std0773|Coding Club|Academic|2023
+std0773|Debate Club|Academic|2023
+std0774|Badminton|Sports|2025
+std0774|Art Club|Creative|2025
+std0775|Film Club|Creative|2023
+std0775|Chess Club|Academic|2023
+std0776|Taekwondo|Sports|2023
+std0776|Film Club|Creative|2024
+std0776|Chess Club|Academic|2025
+std0776|Robotics Club|Academic|2024
+std0777|Drama Club|Creative|2024
+std0778|Debate Club|Academic|2024
+std0778|Coding Club|Academic|2025
+std0779|Archery|Sports|2025
+std0781|Drama Club|Creative|2024
+std0781|Quiz Club|Academic|2024
+std0781|Photography Club|Creative|2024
+std0781|Yoga Club|Wellness|2024
+std0782|Film Club|Creative|2024
+std0783|Cultural Dance|Creative|2025
+std0783|Photography Club|Creative|2024
+std0784|Drama Club|Creative|2024
+std0784|Red Cross|Social|2024
+std0785|Red Cross|Social|2025
+std0786|Cricket|Sports|2025
+std0786|Hiking Club|Adventure|2025
+std0787|Science Club|Academic|2025
+std0787|Archery|Sports|2024
+std0788|Literary Club|Academic|2025
+std0789|Swimming|Sports|2024
+std0790|Science Club|Academic|2025
+std0790|Volleyball|Sports|2025
+std0791|Hiking Club|Adventure|2024
+std0792|Photography Club|Creative|2024
+std0793|Red Cross|Social|2024
+std0793|Volleyball|Sports|2024
+std0794|Football|Sports|2025
+std0794|Table Tennis|Sports|2024
+std0795|Quiz Club|Academic|2025
+std0795|Debate Club|Academic|2024
+std0796|Football|Sports|2024
+std0797|Hiking Club|Adventure|2025
+std0797|Taekwondo|Sports|2025
+std0798|Red Cross|Social|2025
+std0798|Badminton|Sports|2024
+std0799|Art Club|Creative|2025
+std0799|Science Club|Academic|2024
+std0800|Music Band|Creative|2025
+std0800|Cycling Club|Sports|2025
+std0800|Red Cross|Social|2024
+std0800|Table Tennis|Sports|2025
